@@ -7,6 +7,19 @@ main {
     flex: 1;
 }
 
+.map-container {
+    margin: 0 0 4rem;
+}
+
+.map-container .leaflet-container {
+    border-radius: 20px 20px 0 0;
+}
+
+.map-container footer {
+    background: #F5F8FA;
+    border-radius: 0 0 20px 20px;
+}
+
 form {
     width: 700px;
     margin: 64px auto;
@@ -15,4 +28,26 @@ form {
     border-radius: 20px;
     overflow: hidden;
     padding: 80px;
+}
+
+fieldset {
+    border: 0;
+}
+
+fieldset + fieldset {
+    margin-top: 8rem;
+}
+
+fieldset legend {
+    width: 100%;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: 700;
+    border-bottom: 1px solid #D3E2E5;
+    margin-bottom: 4rem;
+    padding-bottom: 2.4rem;
+}
+
+.input-block + .input-block {
+    margin-top: 2.4rem;
 }
