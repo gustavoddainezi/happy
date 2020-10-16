@@ -1,5 +1,6 @@
-const express = require('express')
-const path = require('path')
+const express = require('express');
+const path = require('path');
+const pages = require('./pages.js');
 
 const server = express()
 server
@@ -7,8 +8,6 @@ server
 .set('views', path.join(__dirname, "views"))
 .set('view engine', 'hbs')
 
-server.get('/', (req, res) => {
-    return res.render('index')
-})
+server.get('/', pages.index)
 
 server.listen(5500)
