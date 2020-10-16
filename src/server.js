@@ -8,6 +8,11 @@ server
 .set('views', path.join(__dirname, "views"))
 .set('view engine', 'hbs')
 
-server.get('/', pages.index)
+server
+    .get('/', pages.index)
+    .get('/orphanage', pages.orphanage)
+    .get('/orphanages', pages.orphanages)
+    .get('/create-orphanage', pages.createOrphanage)
+
 
 server.listen(5500)
