@@ -1,4 +1,4 @@
-function saveOrphanage(orphanage, orphanage) {
+function saveOrphanage(db, orphanage) {
   return db.run(`
     INSERT INTO orphanages (
         lat,
