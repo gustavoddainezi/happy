@@ -1,7 +1,7 @@
 ## 💻 Sobre
 
 <p align="justify">
- O Happy foi desenvolvido durante a terceira edição da <strong>Next Level Week (NLW)</strong> na <strong>Trilha Discovery</strong> oferecida pela [Rocketseat](https://www.rocketseat.com.br), o Front-End da aplicação foi desenvolvido com HTML5, CSS3 e JavaScript, já o Back-End teve como base o NodeJS para desenvolvimento do servidor.
+ O Happy foi desenvolvido durante a terceira edição da <strong>Next Level Week (NLW)</strong> na <strong>Trilha Discovery</strong> oferecida pela <strong>Rocketseat</strong>, o Front-End da aplicação foi desenvolvido com HTML5, CSS3 e JavaScript, já o Back-End teve como base o NodeJS para desenvolvimento do servidor.
 </p>
 
 <p align="justify">
