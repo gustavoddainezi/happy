@@ -1,3 +1,15 @@
+### 🛠 **Tecnologias**
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Handlebars](https://handlebarsjs.com/)
+
+---
+
 ## 🦸 **Autor**
 
 <a href="https://www.linkedin.com/in/gustavo-damaceno/">
