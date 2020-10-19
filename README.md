@@ -1,3 +1,15 @@
+## 💻 Sobre
+
+<p align="justify">
+ O Happy foi desenvolvido durante a terceira edição da <strong>Next Level Week (NLW)</strong> na <strong>Trilha Discovery</strong> oferecida pela [Rocketseat](https://www.rocketseat.com.br), o Front-End da aplicação foi desenvolvido com HTML5, CSS3 e JavaScript, já o Back-End teve como base o NodeJS para desenvolvimento do servidor.
+</p>
+
+<p align="justify">
+ A plataforma Happy foi desenvolvida no mês de outubro, mês em que é comemorado o Dia das Crianças. Em homenagem a esse dia, o projeto foi desenvolvido com o intuito de levar pessoas a cadastrarem e também a conhecerem mais orfanatos em regiões próximas para que possam visita-los e/ou ajuda-los com doações e principalmente com muito amor e carinho! ❤
+</p>
+
+---
+
 ### 🛠 **Tecnologias**
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
