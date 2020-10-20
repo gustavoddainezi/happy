@@ -1,4 +1,4 @@
-## 📝 Sumário
+### 📝 Sumário
 
 <p align="center">
  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
  <a href="#license">Licença</a>
 </p>
 
-## ❗ O que é a Next Level Week? <a name = "whatis"></a>
+### ❗ O que é a Next Level Week? <a name = "whatis"></a>
 
 <p align="justify">
  O NLW é uma semana prática com muito código, desafios, redes e um único objetivo: levar o desenvolvedor ao próximo nível. Através do método que eles utilizam, o desenvolvedor aprende sobre novas ferramentas, sobre novas tecnologias e descobre também diversos hacks que irão impulsionar sua carreira. Um evento online e gratuito que ajuda muito a dar o próximo passo rumo a um futuro brilhante!
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Sobre <a name = "about"></a>
+### 💻 Sobre <a name = "about"></a>
 
 <p align="justify">
  O Happy foi desenvolvido durante a terceira edição da <strong>Next Level Week (NLW)</strong> na <strong>Trilha Discovery</strong> oferecida pela <strong>Rocketseat</strong>, o Front-End da aplicação foi desenvolvido com HTML5, CSS3 e JavaScript, já o Back-End teve como base o NodeJS para desenvolvimento do servidor. <br/> A plataforma Happy foi desenvolvida no mês de outubro, mês em que é comemorado o Dia das Crianças. Em homenagem a esse dia, o projeto foi desenvolvido com o intuito de levar pessoas a cadastrarem e também a conhecerem mais orfanatos em regiões próximas para que possam visita-los e/ou ajuda-los com doações e principalmente com muito amor e carinho! ❤
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🦸 Autor <a name = "author"></a>
+### 🦸 Autor <a name = "author"></a>
 
 <a href="https://www.linkedin.com/in/gustavo-damaceno/">
  <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/38168305?s=400&u=8771c7a335f88317a15bfe3b243c934121ba6862&v=4" width="100px;"/>
