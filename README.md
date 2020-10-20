@@ -1,3 +1,10 @@
+<p align="center">
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a> •
+ <a href="#-licença">Licença</a>
+</p>
+
 ## 💻 Sobre
 
 <p align="justify">
