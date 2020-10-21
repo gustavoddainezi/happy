@@ -1,18 +1,18 @@
 <p align="center">
- <img src="https://github.com/matheusfbonfim/happy/blob/main/.github/Home.svg" title="Happy" alt="Happy">
+ <img src="./assets/happy.svg" title="Happy" alt="Happy">
 </p>
 
- <p align="center">
-  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#author">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">Licença</a>
- </p>
+<p align="center">
+ <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#author">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#license">Licença</a>
+</p>
 
-<div align="center">
- <img src="https://github.com/matheusfbonfim/happy/blob/main/.github/happy.png" title="Happy" alt="Happy">
-</div>
+<p align="center">
+ <img src="./assets/happylayout.png" title="Happy" alt="Happy">
+</p>
 
 ### ❗ O que é a Next Level Week? <a name = "whatis"></a>
 
