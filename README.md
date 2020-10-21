@@ -1,18 +1,23 @@
-<img src="https://github.com/matheusfbonfim/happy/blob/main/.github/Home.svg" title="Happy" alt="Happy" align="center">
-
-<br/>
 
 <p align="center">
+ 
+ <img src="https://github.com/matheusfbonfim/happy/blob/main/.github/Home.svg" title="Happy" alt="Happy" align="center">
+ 
+ <br/>
+ 
  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#author">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#license">Licença</a>
+ 
+ <br/>
+ 
+ <img src="https://github.com/matheusfbonfim/happy/blob/main/.github/happy.png" title="Happy" alt="Happy" align="center">
 </p>
 
-<br/>
 
-<img src="https://github.com/matheusfbonfim/happy/blob/main/.github/happy.png" title="Happy" alt="Happy" align="center">
+
 
 ### ❗ O que é a Next Level Week? <a name = "whatis"></a>
 
