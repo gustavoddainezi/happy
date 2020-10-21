@@ -1,3 +1,7 @@
+<img src="https://github.com/matheusfbonfim/happy/blob/main/.github/Home.svg" title="Happy" alt="Happy" align="center">
+
+<br/>
+
 <p align="center">
  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
