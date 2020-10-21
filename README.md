@@ -1,4 +1,4 @@
-### 📝 Sumário
+## 📝 Sumário
 
 <p align="center">
  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -7,6 +7,8 @@
  <a href="#author">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#license">Licença</a>
 </p>
+
+<img src="https://github.com/matheusfbonfim/happy/blob/main/.github/happy.png" title="Happy" alt="Happy" align="center">
 
 ### ❗ O que é a Next Level Week? <a name = "whatis"></a>
 
