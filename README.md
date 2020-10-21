@@ -1,5 +1,3 @@
-## 📝 Sumário
-
 <p align="center">
  <a href="#whatis">O que é a NLW?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -7,6 +5,8 @@
  <a href="#author">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#license">Licença</a>
 </p>
+
+<br/>
 
 <img src="https://github.com/matheusfbonfim/happy/blob/main/.github/happy.png" title="Happy" alt="Happy" align="center">
 
