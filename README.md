@@ -24,7 +24,7 @@
  <a href="https://github.com/gustavoddainezi">
   <img alt="Feito por Gustavo Damaceno" src="https://img.shields.io/badge/feito%20por-Gustavo Damaceno-%15B6D6?style=for-the-badge&color=15D6D6">
  </a>
- <a href="https://github.com/gustavoddainezi/happy">
+ <a href="https://github.com/gustavoddainezi/happy/blob/master/LICENSE">
   <img alt="Licença" src="https://img.shields.io/github/license/gustavoddainezi/happy?style=for-the-badge&color=15D6D6"/>
  </a>
 <p>
