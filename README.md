@@ -14,6 +14,23 @@
  <img src="./assets/happylayout.png" title="Happy" alt="Happy">
 </p>
 
+<p align="center">
+ <a href="https://github.com/gustavoddainezi/happy">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/gustavoddainezi/happy?style=for-the-badge&color=15D6D6">
+ </a>
+ <a href="https://github.com/gustavoddainezi/happy">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gustavoddainezi/happy?style=for-the-badge&color=15D6D6">
+ </a>
+ <a href="https://github.com/gustavoddainezi">
+  <img alt="Feito por Gustavo Damaceno" src="https://img.shields.io/badge/feito%20por-Gustavo Damaceno-%15B6D6?style=for-the-badge&color=15D6D6">
+ </a>
+ <a href="https://github.com/gustavoddainezi/happy">
+  <img alt="Licença" src="https://img.shields.io/github/license/gustavoddainezi/happy?style=for-the-badge&color=15D6D6"/>
+ </a>
+<p>
+
+<br/>
+
 ### ❗ O que é a Next Level Week? <a name = "whatis"></a>
 
 <p align="justify">
